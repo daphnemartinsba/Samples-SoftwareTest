@@ -1,6 +1,24 @@
-<h1> SOBRE </h1>
+# SOBRE 
 
-<p> Este repositório possui o objetivo de armazenar e exibir teste de software. </p>
+<p> Este repositório possui o objetivo de armazenar e exibir testes de software. </p>
 <br>
 
-<h2> Postman </h2>
+## Postman 
+
+<p> Uma plataforma API opensource para criar e usar APIs. Possui poderoso runtime baseado em Node.js que permite adicionar comportamento dinâmico às requisições e collections. </p>
+
+### API 
+* PetStore - Swagger: https://petstore.swagger.io/
+
+### Endpoints 
+* User
+    * POST - Create User
+    * GET - login
+    * Get - Get user by username
+    * DELETE - Delete a user
+
+<!-- * Pet
+    * POST - Add Pet to the store
+    * PUT - Update PET
+    * DELETE - Delete a PET -->
+
