@@ -22,3 +22,6 @@
     * PUT - Update PET
     * DELETE - Delete a PET -->
 
+### Testes
+* Manuais: Swagger/Postman
+* Automatizados: Postman
