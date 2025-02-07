@@ -2,7 +2,7 @@
 	"id": "9d48da55-684f-4e2d-88cd-6ae93e0f042f",
 	"values": [
 		{
-			"key": "base_url_enviroment",
+			"key": "base_url_global",
 			"value": "https://petstore.swagger.io/v2",
 			"type": "default",
 			"enabled": true
