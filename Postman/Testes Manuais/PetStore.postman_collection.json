@@ -336,7 +336,7 @@
 	],
 	"variable": [
 		{
-			"key": "base_url_enviroment",
+			"key": "base_url_collection",
 			"value": "https://petstore.swagger.io/v2",
 			"type": "string"
 		},
