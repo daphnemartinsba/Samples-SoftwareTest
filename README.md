@@ -17,11 +17,6 @@
     * Get - Get user by username
     * DELETE - Delete a user
 
-<!-- * Pet
-    * POST - Add Pet to the store
-    * PUT - Update PET
-    * DELETE - Delete a PET -->
-
 ### Testes
 * Manuais: Swagger/Postman
 * Automatizados: Postman
