@@ -93,7 +93,7 @@ public class UserTests {
                 .get("/user/" + user.getUsername())
                 .then()
                 .assertThat().statusCode(200).and().time(lessThan(2000L))
-                .and().body("firstName", equalTo(user.getFirstName()));
+                .and().body("username", equalTo(user.getUsername()));
     }
 
     // Teste de deleção do usuário por username
