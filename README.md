@@ -10,8 +10,8 @@
 ### Selenium WebDriver
 
 #### Sobre o Teste
-* Plataforma utilizada: http://www.automationpractice.pl/index.php?controller=authentication&back=my-account
-* **Testes automatizados**
+* Plataforma utilizada: http://www.automationpractice.pl/index.php
+* **[Testes automatizados](https://github.com/daphnemartinsba/Samples-SoftwareTest/tree/main/E2E%20Tests/Selenium%20WebDriver)**
 
 #
 
