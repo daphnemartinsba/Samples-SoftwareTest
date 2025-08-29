@@ -1,7 +1,7 @@
 # SeleniumWebDriver
 
 ## Configurações do Selenium WebDriver
-<p>Para configurar o Selenium usando o Java é necessário utilizar o Maven com dependências do JUnit, no arquivo pom.xml, ao criar um projeto.</p>
+<p>Para configurar o Selenium usando o Java é necessário utilizar, ao criar um projeto, o Maven com dependências do JUnit no arquivo pom.xml.</p>
 <p>O projeto deve conter as dependências do Selenium, no arquivo pom.xml, e os executáveis dos WebDrivers dos navegadores utilizados para os testes, inseridos em uma pasta na raiz do projeto.</p>
 <p>Dessa forma, com as dependências do Selenium e do Junit, é possível escrever testes que serão executados automaticamente nos navegadores utilizando os drivers.</p>
 
