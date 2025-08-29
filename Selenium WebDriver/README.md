@@ -14,12 +14,11 @@
 
 ### Padrão de Projeto: Page Object
 <p> O Page Object é um padrão de projeto onde uma página é tratada como um objeto de uma classe (orientada a objeto),
- com o intuito de obter uma interface da página onde o teste será executados. 
-Assim separam-se os métodos, como ações findElement, em uma BasePage (abstract, pode somente ser herdada); 
+ com o intuito de obter uma interface da página onde o teste será executados. </p>
+<p>Assim separam-se os métodos, como ações findElement, em uma BasePage (abstract, pode somente ser herdada); 
 da classe da Página, onde estão as buscas das áreas/componentes da página (por locators), e da sua inserção de dado; 
-e da execução dos testes na página ( onde a página/objeto é instanciada).
-O Page Object é popular na automação de testes por reduzir a duplicação de código, isso porque se a interface de uma página
-for alterada os testes não necessariamente precisam de alterações, apenas o código do Page Object (classe da página). 
+e da execução dos testes na página ( onde a página/objeto é instanciada).</p>
+<p>O Page Object é popular na automação de testes por reduzir a duplicação de código, isso porque se a interface de uma página for alterada os testes não necessariamente precisam de alterações, apenas o código do Page Object (classe da página). 
 </p>
 
 [Fonte](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/) 
